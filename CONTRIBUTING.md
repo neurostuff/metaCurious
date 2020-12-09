@@ -1,6 +1,6 @@
 # Contributing to MetaCurious
 
-Welcome to the MetaCurious repository! We're excited you're here and want to contribute.  
+Welcome to the MetaCurious repository! We're excited you're here and want to contribute.
 
 These guidelines are designed to make it as easy as possible to get involved. If you have any questions that aren't discussed below, please let us know by opening an [issue][link_issues]!
 
@@ -48,7 +48,7 @@ This allows other members of the MetaCurious development team to confirm that yo
 
 This is now your own unique copy of MetaCurious. Changes here won't effect anyone else's work, so it's a safe space to explore edits to the code!
 
-Make sure to [keep your fork up to date][link_updateupstreamwiki] with the master repository.
+Make sure to [keep your fork up to date][link_updateupstreamwiki] with the main repository.
 
 **3. Make the changes you've discussed.**
 
@@ -71,16 +71,16 @@ You're awesome. :wave::smiley:
 *&mdash; Based on contributing guidelines from the [STEMMRoleModels][link_stemmrolemodels] project.*
 
 [link_github]: https://github.com/
-[link_metacurious]: https://github.com/akeshavan/brainspell-neo-frontend
+[link_metacurious]: https://github.com/neurostuff/metaCurious
 [link_signupinstructions]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [link_react]: https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments
-[link_issues]: https://github.com/akeshavan/brainspell-neo-frontend/issues
-[link_labels]: https://github.com/akeshavan/brainspell-neo-frontend/labels
+[link_issues]: https://github.com/neurostuff/metaCurious/issues
+[link_labels]: https://github.com/neurostuff/metaCurious/labels
 [link_discussingissues]: https://help.github.com/articles/discussing-projects-in-issues-and-pull-requests
 
-[link_bugs]: https://github.com/akeshavan/brainspell-neo-frontend/labels/bug
-[link_helpwanted]: https://github.com/akeshavan/brainspell-neo-frontend/labels/help%20wanted
-[link_enhancement]: https://github.com/akeshavan/brainspell-neo-frontend/labels/enhancement
+[link_bugs]: https://github.com/neurostuff/metaCurious/labels/bug
+[link_helpwanted]: https://github.com/neurostuff/metaCurious/labels/help%20wanted
+[link_enhancement]: https://github.com/neurostuff/metaCurious/labels/enhancement
 
 [link_pullrequest]: https://help.github.com/articles/creating-a-pull-request/
 [link_fork]: https://help.github.com/articles/fork-a-repo/
